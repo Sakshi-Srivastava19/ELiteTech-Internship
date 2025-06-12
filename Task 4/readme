@@ -1,0 +1,50 @@
+# 🎯 Task 4 – Optimization Model: Production Planning
+
+**Internship Project - ELiteTEch (Data Science)**
+
+---
+
+## ✅ Problem Statement
+
+A company manufactures two products (A and B), using two machines.  
+Each product requires a certain amount of machine time, and the company wants to **maximize profit** without exceeding machine availability.
+
+---
+
+## 🧮 Mathematical Model
+
+Let:
+- A = units of Product A  
+- B = units of Product B  
+
+Maximize:  
+> **Profit = 30×A + 20×B**
+
+Subject to:
+- 1×A + 2×B ≤ 40 (Machine 1 hours)
+- 2×A + 1×B ≤ 50 (Machine 2 hours)
+- A, B ≥ 0
+
+---
+
+## 💡 Tools Used
+
+- Language: Python
+- Library: `pulp` (Linear Programming Solver)
+
+---
+
+## 🔎 Solution
+
+| Variable   | Value    |
+|------------|----------|
+| Product A  | 10 units |
+| Product B  | 15 units |
+| Profit     | $600     |
+
+---
+
+## 📌 Insights
+
+- The optimal production plan suggests **10 units of A** and **15 units of B**.
+- This utilizes machine time efficiently and yields **maximum profit** under the given constra
