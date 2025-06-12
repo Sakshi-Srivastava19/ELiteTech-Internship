@@ -1,0 +1,14 @@
+# 🏠 House Price Prediction Web App
+
+This is an end-to-end data science project built as part of ELiteTech Internship Task 3.
+
+## Project Summary
+
+- Dataset: California Housing Dataset
+- Model: RandomForestRegressor
+- Framework: Flask
+- Language: Python
+
+## Steps to Run
+
+1️⃣ Install dependencies:
