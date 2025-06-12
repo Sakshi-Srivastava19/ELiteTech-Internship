@@ -29,7 +29,7 @@ Learning Outcomes
 This repository contains all my work completed during the internship. Each task is organized in a separate folder with code, documentation, and deliverables.
 
 📌 Task 1 - Data Pipeline Development
-📂 Directory: /task_1_data_pipeline/
+📂 Directory: /Task 1/
 
 ✅ Built an ETL (Extract, Transform, Load) pipeline using:
 
@@ -42,7 +42,7 @@ Automated the entire data preprocessing pipeline
 📎 Deliverable: Python script + processed dataset
 
 📌 Task 2 - Deep Learning Project
-📂 Directory: /task_2_deep_learning/
+📂 Directory: /Task 2/
 
 ✅ Implemented an image classification model using:
 
@@ -55,7 +55,7 @@ Visualized model accuracy and loss plots
 📎 Deliverable: Functional deep learning model with performance plots
 
 📌 Task 3 - End-to-End Data Science Project
-📂 Directory: /task_3_end_to_end/
+📂 Directory: /Task 3/
 
 ✅ Developed a fully functional ML web app:
 
@@ -70,7 +70,7 @@ Created web UI for user input & prediction display
 📎 Deliverable: Deployed Flask web app + trained model
 
 📌 Task 4 - Optimization Model
-📂 Directory: /task_4_optimization/
+📂 Directory: /Task 4/
 
 ✅ Solved a business optimization problem:
 
@@ -125,6 +125,6 @@ End-to-End Project Workflow & Documentation
 💡 This internship was an incredible learning experience, and I am grateful to ELiteTEch for the opportunity to grow my Data Science skills.
 
 🔗 Let's Connect
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/sakshi-srivastava-59a3b3313/)
 
 Portfolio
