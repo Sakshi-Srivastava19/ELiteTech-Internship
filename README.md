@@ -1,5 +1,5 @@
 # ELiteTech-Internship
-ELiteTech Internship (15 May-14 June)
+ELiteTech Internship (19 May-18 June)
 📊 ELiteTEch Data Science Internship Projects
 Welcome to my Data Science Internship portfolio under the ELiteTEch Internship Program.
 During this internship, I completed 4 mandatory tasks covering data pipelines, deep learning, end-to-end deployment, and optimization.
