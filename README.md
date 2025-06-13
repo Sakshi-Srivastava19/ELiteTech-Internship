@@ -102,11 +102,11 @@ Matplotlib
 🧪 How to Run
 1️⃣ Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/EliteTech-Internship-Projects.git
+
 cd EliteTech-Internship-Projects
+
+
 2️⃣ Install the dependencies for each task using requirements.txt in the respective folders.
 
 3️⃣ Follow README inside each task folder for step-by-step instructions.
@@ -126,5 +126,5 @@ End-to-End Project Workflow & Documentation
 
 🔗 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/sakshi-srivastava-59a3b3313/)
+ Sakshi Srivastava
 
-Portfolio
